@@ -1,0 +1,9 @@
+msgid ""
+msgstr "Content-Type: text/plain;\n"
+
+#: test/fixtures/test1.js:2
+#: test/fixtures/test2.js:2
+#. Test for a key
+#. Test for another key
+msgid "Key 1"
+msgstr ""
